@@ -9,5 +9,5 @@
 
 <div>
   <a href="https://github.com/DavsonMelo">
-  <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=davsonmelo&show_icons=true&theme=dracula&include_allcomits=true&count_private=true"/>
-  <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/username=davsonmelo&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=DavsonMelo&show_icons=true&theme=dracula&include_allcomits=true&count_private=true"/>
+  <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/username=DavsonMelo&layout=compact&langs_count=16&theme=dracula"/>
