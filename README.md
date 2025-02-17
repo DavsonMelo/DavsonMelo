@@ -1,9 +1,10 @@
 ### Olá broder. Eu sou o Davson Melo 👋
 
-- 🔭 Eu estou trabalhando em Saúde Pública
-- 🌱 Aprendendo Python, HTML5, CSS3, Flask, Git e Github
+- 🙁  Não trabalho na área de TI (ainda)
+- 🔰 Python, HTML5, CSS3, Flask, Git e Github, JavaScript, Kotlin
+- 🏆 VScode, AndroidStudio, IntelijID, Pycharm, NetBeans
 - 💬 Pergunte-me qualquer coisa. Eu não sei nada mesmo! 😄
-- 📫 Contatos: davsontorres@gmail.com - +55 51996876598
+- 📫 Contatos: davsontorres@gmail.com
 - 😄 Pronouns: Eu, tu, ele, nós, vós, eles.
 - ⚡ Fun Facts: A minha foto de capa não é engraçada o suficiente?
 
