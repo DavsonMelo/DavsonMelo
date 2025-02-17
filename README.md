@@ -5,8 +5,6 @@
 - 🏆 VScode, AndroidStudio, IntelijID, Pycharm, NetBeans
 - 💬 Pergunte-me qualquer coisa. Eu não sei nada mesmo! 😄
 - 📫 Contatos: davsontorres@gmail.com
-- 😄 Pronouns: Eu, tu, ele, nós, vós, eles.
-- ⚡ Fun Facts: A minha foto de capa não é engraçada o suficiente?
 
 <div>
   <a href="https://github.com/DavsonMelo">
