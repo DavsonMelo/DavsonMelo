@@ -1,10 +1,10 @@
 ### Olá broder. Eu sou o Davson Melo 👋
 
 - 🙁  Não trabalho na área de TI (ainda)
-- 🔰 Python, HTML5, CSS3, Flask, Git e Github, JavaScript, Kotlin
+- 🔰 HTML5, CSS3, React.js, Next.js
 - 🏆 VScode, AndroidStudio, IntelijID, Pycharm, NetBeans
 - 💬 Pergunte-me qualquer coisa. Eu não sei nada mesmo! 😄
-- 📫 Contatos: davsontorres@gmail.com
+- 📫 Contatos: davson@davson.dev.br
 
 <div>
   <a href="https://github.com/DavsonMelo">
