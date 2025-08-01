@@ -1,7 +1,7 @@
 ### Olá broder. Eu sou o Davson Melo 👋
 
 - 🙁  Não trabalho na área de TI (ainda)
-- 🔰 HTML5, CSS3, React.js, Next.js
+- 🔰 HTML5, CSS3, Javascript ,React.js, Next.js
 - 🏆 VScode, AndroidStudio, IntelijID, Pycharm, NetBeans
 - 💬 Pergunte-me qualquer coisa. Eu não sei nada mesmo! 😄
 - 📫 Contatos: davson@davson.dev.br
